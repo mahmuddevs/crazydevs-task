@@ -19,9 +19,9 @@ const buttonVariants = cva(
           "bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
-        sidebar: "py-14 rounded-full border border-white/15 w-full text-white font-semibold",
-        "sidebar-fill": "py-14 rounded-full border border-white/15 w-full text-white font-semibold bg-white/15",
-        "sidebar-card": "py-14 rounded-full border border-[#F37F0C] w-full text-white font-semibold",
+        sidebar: "text-xs lg:text-normal py-14 rounded-full border border-white/15 w-full text-white font-semibold",
+        "sidebar-fill": "text-xs lg:text-normal py-14 rounded-full border border-white/15 w-full text-white font-semibold bg-white/15",
+        "sidebar-card": "text-xs lg:text-normal py-14 rounded-full border border-[#F37F0C] w-full text-white font-semibold",
 
       },
       size: {
