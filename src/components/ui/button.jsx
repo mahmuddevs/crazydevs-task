@@ -21,6 +21,7 @@ const buttonVariants = cva(
         link: "text-primary underline-offset-4 hover:underline",
         sidebar: "py-14 rounded-full border border-white/15 w-full text-white font-semibold",
         "sidebar-fill": "py-14 rounded-full border border-white/15 w-full text-white font-semibold bg-white/15",
+        "sidebar-card": "py-14 rounded-full border border-[#F37F0C] w-full text-white font-semibold",
 
       },
       size: {
