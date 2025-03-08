@@ -40,7 +40,7 @@ const Sidebar = ({ mobileScreen, openSidebar, toggleSidebar }) => {
                     }
                 </Button>
             </div>
-            <div className="mt-auto space-y-3">
+            <div className="lg:mt-auto space-y-3">
                 <div>
                     <SidebarCard openSidebar={openSidebar} />
                 </div>
